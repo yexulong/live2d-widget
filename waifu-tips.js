@@ -28,6 +28,7 @@ function loadWidget(config) {
 				<span class="fa fa-lg fa-camera-retro"></span>
 				<span class="fa fa-lg fa-info-circle"></span>
 				<span class="fa fa-lg fa-times"></span>
+				<span class="menu-item-home"></span>
 			</div>
 		</div>`);
 	// https://stackoverflow.com/questions/24148403/trigger-css-transition-on-appended-element
